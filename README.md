@@ -5,7 +5,7 @@
 
 
 <img align="left" width="50" height="50" src="https://github.com/claudia-viaro/Wdss-UCLdss_research/blob/main/utils/241969890_692407318308954_4975213199854409045_n.png">
-<img align="left" width="50" height="50" src="https://github.com/claudia-viaro/Wdss-UCLdss_research/blob/main/utils/244135203_254358586697724_3424965465142917977_n.png">
+<img align="left" width="50" height="50" src="https://github.com/claudia-viaro/Wdss-UCLdss_research/blob/main/utils/Color%20logo%20-%20no%20background.png">
 
 Do you want to learn and apply ML algorithms to real data sets? Get your hands dirty cleaning datasets and producing insightful graphics! <br />
 Warwick and UCL's data science societies are announcing a collaboration for this summer's research scheme!
