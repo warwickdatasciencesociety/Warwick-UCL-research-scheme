@@ -12,3 +12,13 @@ Application areas can lie in predicting solar radiation. The accurate prediction
 Useful links:
 - [Solar Radiation Prediction Using Different Machine Learning Algorithms and Implications for Extreme Climate Events]( https://www.frontiersin.org/articles/10.3389/feart.2021.596860/full#:~:text=The%20R2%20values%20of,0.922%2C%20and%200.921%2C%20respectively.)
 - [Machine learning methods for solar radiation forecasting: A review](https://www.sciencedirect.com/science/article/pii/S0960148116311648)
+
+
+## General
+
+**Report:** I suggest you collaborate on a single overleaf file. 
+1. Create an account
+2. choose a template (preferably single column and original language English)
+3. share the file among the team members 
+4. If there's something you want to write and it doesn't work: google or ask <br/ >
+Here's a [link](https://www.overleaf.com/articles/tagged/academic-journal/page/1) 
